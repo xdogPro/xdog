@@ -32,7 +32,7 @@ h2 { color:#f68f25; font-size:28px; line-height:34px;}
 
 .shell { width:980px; margin:0 auto;}
 
-#header { background:url(images/header.jpg) no-repeat center center; background-size: cover; position:relative; width: 102%; z-index:2;}
+/* #header { background:url(images/header.jpg) no-repeat center center; background-size: cover; position:relative; width: 102%; z-index:2;} */
 #header .shell { height:410px; position:relative; z-index:2;}
 
 #header-bg { background:url(images/header-left.jpg) repeat-x 0 0;}
