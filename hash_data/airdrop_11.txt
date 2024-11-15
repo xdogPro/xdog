@@ -25,3 +25,7 @@ eth_address                                  balance         arb_hash           
 0x7A3e6F589169B49d6296058AeE948b2FbCcD915D   7029193  0x085f405baade53c2dec50bd659f1a32a158a8f88ad1ccb9efee73ea33065c0ca                         DJ67HmQHfN6jSxsSvrvL9PaDGaocPvsB66                     f4b6210fdf6bd4bcc38596d46db08b2f31d2a45175c78d8d0d7e5870585f1151
 
 0x74A5D80C0ddE82588a045d9f5AD7E3202B9126Da   5900000  0xf1fc109b0366bff24c65a436041adf6191ab8eeea28df41c768550dc24c04703                         DUHkXG14mbqq4hHrjkcCHwDgcRNNzU8Mwv                     a112849ee77b4c57f562ee03547a976fc92c659db6b9ca809d0f09f2bf6fc681
+
+0x820E86aDd3307362F77Bf0dB893d11C9146A2191   1854524  0xec1bdfcbc8f6bcc31d9af5961923050ab810a45290900149384d6fe74e0b9e69                         D9ZonRbHPCAd6n4crg1tFGohP48hy8VdPF                     61a53c339b14c23be4b5f9efd91b0edb1e480a95c1049bd32ac776c8a19b310a    
+
+0x925069039049dC4eBBd45ff785f4d0aC63878Bf8   1505899  0xf8e82af24de18b11d20d7e7db3520a650ae33367c8f80022615176768880ecdb                         D9z5bYywXg9c1XZvMEHjgPtGm9zuBF1p4J                     8776c803042cae903dca42b48e51c79204a7e92bbf8c4f415abdc251e0ac37da
